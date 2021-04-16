@@ -4,6 +4,7 @@
 
 * Eve
 * [TaskBoard](https://mhauzer.github.io/taskboard/)
+* [The Garden of Eden](https://mhauzer.github.io/eden/)
 
 ## APIs
 
